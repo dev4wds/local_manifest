@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    
+    <!-- Specs -->
+    <!-- ===== -->
+    <!-- Device : Moto E4 -->
+    <!-- Codename : woods -->
+    <!-- SoC : MT6737m -->
+
+    <!-- device tree -->
+    <project path="device/motorola/woods" name="dev4wds/android_device_motorola_woods" remote="github" revision="los-14.1" />
+    <!-- kernel -->
+    <project path="kernel/motorola/woods" name="dev4wds/android_kernel_motorola_woods" remote="github" revision="master" />
+    <!-- vendor -->
+    <project path="vendor/motorola/woods" name="dev4wds/android_vendor_motorola_woods" remote="github" revision="master" />
+   
+</manifest>
