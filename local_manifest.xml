@@ -10,7 +10,7 @@
     <!-- device tree -->
     <project path="device/motorola/woods" name="dev4wds/android_device_motorola_woods" remote="github" revision="los-14.1" />
     <!-- kernel -->
-    <project path="kernel/motorola/woods" name="dev4wds/android_kernel_motorola_woods" remote="github" revision="master" />
+    <project path="kernel/motorola/woods" name="dev4wds/android_kernel_motorola_woods" remote="github" revision="los-14.1" />
     <!-- vendor -->
     <project path="vendor/motorola/woods" name="dev4wds/android_vendor_motorola_woods" remote="github" revision="master" />
    
