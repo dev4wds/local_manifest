@@ -8,10 +8,10 @@
     <!-- SoC : MT6737m -->
 
     <!-- device tree -->
-    <project path="device/motorola/woods" name="dev4wds/android_device_motorola_woods" remote="github" revision="los-14.1" />
+    <project path="device/motorola/woods" name="dev4wds/android_device_motorola_woods" remote="github" revision="lineage-15.o" />
     <!-- kernel -->
-    <project path="kernel/motorola/woods" name="dev4wds/android_kernel_motorola_woods" remote="github" revision="los-14.1" />
+    <project path="kernel/motorola/woods" name="dev4wds/android_kernel_motorola_woods" remote="github" revision="lineage-15.0" />
     <!-- vendor -->
-    <project path="vendor/motorola/woods" name="dev4wds/android_vendor_motorola_woods" remote="github" revision="master" />
+    <project path="vendor/motorola/woods" name="dev4wds/android_vendor_motorola_woods" remote="github" revision="lineage-15.0" />
    
 </manifest>
