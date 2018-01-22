@@ -8,7 +8,7 @@
     <!-- SoC : MT6737m -->
 
     <!-- device tree -->
-    <project path="device/motorola/woods" name="dev4wds/android_device_motorola_woods" remote="github" revision="lineage-15.o" />
+    <project path="device/motorola/woods" name="dev4wds/android_device_motorola_woods" remote="github" revision="lineage-15.0" />
     <!-- kernel -->
     <project path="kernel/motorola/woods" name="dev4wds/android_kernel_motorola_woods" remote="github" revision="lineage-15.0" />
     <!-- vendor -->
