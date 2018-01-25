@@ -13,5 +13,6 @@
     <project path="kernel/motorola/woods" name="dev4wds/android_kernel_motorola_woods" remote="github" revision="lineage-15.0" />
     <!-- vendor -->
     <project path="vendor/motorola/woods" name="dev4wds/android_vendor_motorola_woods" remote="github" revision="lineage-15.0" />
-   
+    <!-- toolchain -->
+    <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.9-uber" name="dev4wds/prebuilts_gcc_arm_eabi_4.9" remote="github" revision="master" />
 </manifest>
